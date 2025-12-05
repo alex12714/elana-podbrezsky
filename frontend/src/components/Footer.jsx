@@ -7,9 +7,9 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#1a1a1a] text-white">
-      <div className="container-gallery pt-32 pb-24">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+    <footer className="bg-[#1a1a1a] text-white pt-20">
+      <div className="container-gallery pb-16">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mt-8">
           {/* Brand */}
           <div>
             <h3 className="font-serif text-2xl font-medium mb-4">Elana Podbrezsky</h3>
