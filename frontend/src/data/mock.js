@@ -7,7 +7,7 @@ export const artistInfo = {
 
 With over two decades of artistic practice, Elana has exhibited in galleries across Europe and North America. Her work is held in private collections worldwide, and she has been featured in numerous art publications. Each piece is a meditation on memory, place, and the ineffable beauty of the present moment.`,
   shortBio: "Contemporary abstract expressionist exploring color, emotion, and nature. Based in New York, exhibited internationally.",
-  portrait: "https://images.unsplash.com/photo-1611244419377-b0a760c19719?w=800&q=80",
+  portrait: "https://customer-assets.emergentagent.com/job_artbyep/artifacts/sv8gmwnt_IMG_1482.JPG",
   email: "studio@elanapodbrezsky.com",
   instagram: "@elanapodbrezsky",
   location: "New York, NY"
