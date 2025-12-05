@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div className="border-t border-gray-800 mt-16 pt-10 flex flex-col md:flex-row justify-between items-center gap-4 mb-8">
           <p className="text-gray-500 text-sm">
             © {currentYear} Elana Podbrezsky. All rights reserved.
           </p>
